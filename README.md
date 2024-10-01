@@ -1,5 +1,5 @@
 # SuidaQuest
-<img width="686" alt="image" src="https://github.com/user-attachments/assets/bee5e3b0-530d-4c0a-9f6f-d76983401d79">
+![image](https://github.com/user-attachments/assets/bee5e3b0-530d-4c0a-9f6f-d76983401d79)
 SuidaQuest - веб-приложение с интерактивными квестами и тестами, посвященными музею усадьбе Суйда.
 Данная часть приложения предназначена для прохождения подготовленных администраторами квестов.
 ## Ссылки
